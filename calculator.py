@@ -7,10 +7,18 @@ One function per operation, in order.
 
 # Calculator
 #https://github.com/EmyB06/lab11-EB-AM.git
-# Partner 1: Emy Bijoy
-# Partner 2: Anais Maldonado
+# Partner 1:
+# Partner 2:
 
 import math
+
+def square_root(a):
+    if a < 0:
+        raise ValueError
+    math.sqrt(a)
+
+def hypotenuse(a, b):
+    math.hypot(a, b)
 
 def add(a, b):
     return a + b
