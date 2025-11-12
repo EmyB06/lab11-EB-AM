@@ -4,6 +4,12 @@ calculator.py
 
 One function per operation, in order.
 """
+
+# Calculator
+#https://github.com/EmyB06/lab11-EB-AM.git
+# Partner 1: Emy Bijoy
+# Partner 2: Anais Maldonado
+
 import math
 # First example
 def add(a, b):
