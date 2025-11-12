@@ -11,7 +11,7 @@ One function per operation, in order.
 # Partner 2: Anais Maldonado
 
 import math
-# First example
+
 def add(a, b):
     return a + b
 
